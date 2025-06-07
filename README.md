@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementação https://www.tabnews.com.br/ do ZERO para o curso.dev
+Implementando o TabNews a partir do ZERO para o curso.dev , com o Filipe Deschamps.
